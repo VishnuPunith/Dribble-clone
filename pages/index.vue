@@ -62,11 +62,484 @@
           <a href="#">Get Started</a>
 
         </div>
+
           </div>
-  </div>
+          <div class="main_two">
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img1.png" alt="">
+          </div>
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img9.png" alt="">
+          </div>
+         
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img9.png" alt="">
+          </div>
+         
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Mobile</li>
+              <li>UI</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img5.jpeg" alt="">
+          </div>
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Mobile</li>
+              <li>UI</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img5.jpeg" alt="">
+          </div>
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          
+          <div class="assets">
+            <img src="../pages/assets/img2.png" alt="">
+          </div>
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img9.png" alt="">
+          </div>
+         
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img3.png" alt="">
+          </div>
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img9.png" alt="">
+          </div>
+         
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Graphic Design</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img4.png" alt="">
+          </div>
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img9.png" alt="">
+          </div>
+         
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Mobile</li>
+              <li>UI</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img5.jpeg" alt="">
+          </div>
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Apple</li>
+              <li>UI/UX</li>
+              <li>Web</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img6.jpeg" alt="">
+          </div>
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img7.png" alt="">
+          </div>
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img8.jpeg" alt="">
+          </div>
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img9.png" alt="">
+          </div>
+         
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img9.png" alt="">
+          </div>
+         
+        </div>
+      <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Graphic Design</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img4.png" alt="">
+          </div>
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img9.png" alt="">
+          </div>
+         
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Mobile</li>
+              <li>UI</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img5.jpeg" alt="">
+          </div>
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Mobile</li>
+              <li>UI</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img5.jpeg" alt="">
+          </div>
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img9.png" alt="">
+          </div>
+         
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img9.png" alt="">
+          </div>
+         
+        </div>
+        <div class="slider">
+          <div class="details">
+            <div class="name">Helen Tran</div>
+            <div class="designation">Lead Product Designer</div>
+            <div class="social_">
+            <ul class="social">
+              <li >Web</li>
+              <li>UI/UX</li>
+              <li>Product</li>
+            </ul>
+          </div>
+          </div>
+          <div class="assets">
+            <img src="../pages/assets/img9.png" alt="">
+          </div>
+         
+        </div>
+      </div>
+      <div class="text">
+        <h1 class="text-e">Explore inspiring designs</h1>
+      </div>
+      <div class="card_two">
+        <div class="assets_y">
+            <img src="../pages/assets/img1.png" alt="">
+          </div>
+          <div class="assets_y">
+            <img src="../pages/assets/img1.png" alt="">
+          </div>
+          <div class="assets_y">
+            <img src="../pages/assets/img1.png" alt="">
+          </div>
+
+      </div>
+      </div>
 </template>
 
+<!-- <script>
 
+export default({
+  setup() {
+    return {
+      slider: [
+        {
+          id: 1,
+          img: require('../pages/assets/images.jpeg'),
+        },
+        {
+          id: 2,
+          img: require('../pages/assets/images.jpeg'),
+        },
+        {
+          id: 3,
+          img: require('../pages/assets/images.jpeg'),
+        },
+        {
+          id: 4,
+          img: require('../pages/assets/images.jpeg'),
+        },
+        {
+          id: 5,
+          img: require('../pages/assets/images.jpeg'),
+        },
+        {
+          id: 6,
+          img: require('../pages/assets/images.jpeg'),
+        },
+        {
+          id: 7,
+          img: require('../pages/assets/images.jpeg'),
+        },
+        {
+          id: 8,
+          img: require('../pages/assets/images.jpeg'),
+        },
+        {
+          id: 9,
+          img: require('../pages/assets/images.jpeg'),
+        },
+      ],
+      details:[{
+        id:1,
+        name:'Vishnu',
+        designation:'Devoloper',
+
+      },
+      {
+        id:2,
+        name:'Vishnu',
+        designation:'Devoloper',
+      }
+      
+
+    ],
+    }
+  },
+})
+</script> -->
 
 
 <style scoped>
@@ -76,6 +549,54 @@ body{
   font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 }
+.main_two {
+  height: 64vh;
+  max-width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 32px;
+  overflow: hidden;
+}
+.assets_y{
+  display: flex;
+}
+.slider {
+  max-width: 100%;
+  height: 340px;
+  position: relative;
+  display: grid;
+  animation: slider 40s linear infinite; 
+}
+.details {
+  color: #ffff;
+  position: absolute;
+  align-self: end;
+  padding: 9px 20px;
+  font-size: 12px;
+  font-family: "Mona Sanse", Helvetica, Arial, sans-serif;
+}
+.assets {
+  border-radius: 32px;
+  overflow: hidden;
+  width: 270px;
+}
+.assets>img{
+  height: 100%;
+}
+@keyframes slider {
+  0% {
+    transform: translateX(0); /* Start from the initial position */
+  }
+  100% {
+    transform: translateX(calc(-100% *8)); /* Translate by total width of all slides */
+  }
+}
+/* .image-slide{
+  border-radius: 32px;
+  margin-left: 29px;
+  margin-top: 58px;
+} */
 .main-content{
   display: flex;
   align-items: center;
@@ -83,9 +604,17 @@ body{
   flex-direction: column;
   margin-top: 78px;
 }
+.text-e{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 400;
+  font-size: 48px;
+  font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 .SignGet{
     background-color: black;
-    height: 57px;
+    height: 50px;
     color:#ffff;
     /* width: 100px; */
     border-radius: 29px;
@@ -133,7 +662,7 @@ body{
   color: #0d0c22;
 }
 .threem{
-  padding: 10px 16px;
+  padding: 6px 12px;
   border-radius: 9999999px;
   -webkit-animation: over 32s linear infinite;
   animation: over 32s linear infinite;
@@ -254,5 +783,23 @@ a {
   100% {
     background-color: #ffda79;
   }
+}
+.social{
+  display: flex;
+    gap: 12px;
+    list-style: none;
+    background-color: transparent;
+    font-size: 11px;
+  padding:0;
+  margin: 12px 0;
+}
+
+.social>li{
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 14px;
+  padding: 4px 10px;
+}
+.card_two{
+display: flex;
 }
 </style>
