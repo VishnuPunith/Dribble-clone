@@ -539,7 +539,7 @@
         <div class="card_jug">
           <div class="imageCard">
             <div class="image">
-              <img src="../pages/assets/card1.png" />
+              <img src="../pages/assets/m2.png" />
             </div>
             <div class="hover_hhola">
               <div class="hover_text">Aqua Reef</div>
@@ -602,259 +602,7 @@
         <div class="card_jug">
           <div class="imageCard">
             <div class="image">
-              <img src="../pages/assets/card2.jpeg" />
-            </div>
-            <div class="hover_hhola">
-              <div class="hover_text">Aqua Reef</div>
-              <div class="hover_svg">
-                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                    role="img" class="icon">
-                    <path
-                      d="M3.33337 5.2C3.33337 4.0799 3.33337 3.51984 3.55136 3.09202C3.74311 2.71569 4.04907 2.40973 4.42539 2.21799C4.85322 2 5.41327 2 6.53337 2H9.46671C10.5868 2 11.1469 2 11.5747 2.21799C11.951 2.40973 12.257 2.71569 12.4487 3.09202C12.6667 3.51984 12.6667 4.0799 12.6667 5.2V14L8.00004 11.3333L3.33337 14V5.2Z"
-                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg>
-                </span>
-                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                    role="img" class="icon ">
-                    <path
-                      d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
-                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg></span>
-              </div>
-            </div>
-          </div>
-          <div class="imgHeading">
-            <div class="name_card">
-              <div class="avatar">
-                <img src="../pages/assets/ava.jpeg" alt="#">
-              </div>
-              <div class="name_c">
-                <span>Ben Dider</span>
-              </div>
-              <div class="pro">
-                <span>PRO</span>
-              </div>
-            </div>
-            <div class="like">
-              <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                  role="img" class="icon fill-current shot-tools-icon">
-                  <path
-                    d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
-                    stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                </svg>
-              </span>
-              122
-              <div class="view">
-                <span>
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                    role="img" class="icon fill-current shot-tools-icon">
-                    <path
-                      d="M8 3C4.36992 3 1.98789 6.21774 1.18763 7.49059C1.09079 7.64462 1.04237 7.72163 1.01527 7.84042C0.99491 7.92964 0.99491 8.07036 1.01527 8.15958C1.04237 8.27837 1.09079 8.35539 1.18763 8.50941C1.98789 9.78226 4.36992 13 8 13C11.6301 13 14.0121 9.78226 14.8124 8.50941L14.8124 8.50939C14.9092 8.35538 14.9576 8.27837 14.9847 8.15958C15.0051 8.07036 15.0051 7.92964 14.9847 7.84042C14.9576 7.72163 14.9092 7.64462 14.8124 7.4906L14.8124 7.49059C14.0121 6.21774 11.6301 3 8 3Z"
-                      fill="currentColor"></path>
-                    <path
-                      d="M8 10C9.10457 10 10 9.10457 10 8C10 6.89543 9.10457 6 8 6C6.89543 6 6 6.89543 6 8C6 9.10457 6.89543 10 8 10Z"
-                      fill="white"></path>
-                  </svg>
-                </span>
-                55.4k
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="card_jug">
-          <div class="imageCard">
-            <div class="image">
-              <img src="../pages/assets/card3.jpeg" />
-            </div>
-            <div class="hover_hhola">
-              <div class="hover_text">Aqua Reef</div>
-              <div class="hover_svg">
-                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                    role="img" class="icon">
-                    <path
-                      d="M3.33337 5.2C3.33337 4.0799 3.33337 3.51984 3.55136 3.09202C3.74311 2.71569 4.04907 2.40973 4.42539 2.21799C4.85322 2 5.41327 2 6.53337 2H9.46671C10.5868 2 11.1469 2 11.5747 2.21799C11.951 2.40973 12.257 2.71569 12.4487 3.09202C12.6667 3.51984 12.6667 4.0799 12.6667 5.2V14L8.00004 11.3333L3.33337 14V5.2Z"
-                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg>
-                </span>
-                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                    role="img" class="icon ">
-                    <path
-                      d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
-                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg></span>
-              </div>
-            </div>
-          </div>
-          <div class="imgHeading">
-            <div class="name_card">
-              <div class="avatar">
-                <img src="../pages/assets/ava.jpeg" alt="#">
-              </div>
-              <div class="name_c">
-                <span>Ben Dider</span>
-              </div>
-              <div class="pro">
-                <span>PRO</span>
-              </div>
-            </div>
-            <div class="like">
-              <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                  role="img" class="icon fill-current shot-tools-icon">
-                  <path
-                    d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
-                    stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                </svg>
-              </span>
-              122
-              <div class="view">
-                <span>
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                    role="img" class="icon fill-current shot-tools-icon">
-                    <path
-                      d="M8 3C4.36992 3 1.98789 6.21774 1.18763 7.49059C1.09079 7.64462 1.04237 7.72163 1.01527 7.84042C0.99491 7.92964 0.99491 8.07036 1.01527 8.15958C1.04237 8.27837 1.09079 8.35539 1.18763 8.50941C1.98789 9.78226 4.36992 13 8 13C11.6301 13 14.0121 9.78226 14.8124 8.50941L14.8124 8.50939C14.9092 8.35538 14.9576 8.27837 14.9847 8.15958C15.0051 8.07036 15.0051 7.92964 14.9847 7.84042C14.9576 7.72163 14.9092 7.64462 14.8124 7.4906L14.8124 7.49059C14.0121 6.21774 11.6301 3 8 3Z"
-                      fill="currentColor"></path>
-                    <path
-                      d="M8 10C9.10457 10 10 9.10457 10 8C10 6.89543 9.10457 6 8 6C6.89543 6 6 6.89543 6 8C6 9.10457 6.89543 10 8 10Z"
-                      fill="white"></path>
-                  </svg>
-                </span>
-                55.4k
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="card_jug">
-          <div class="imageCard">
-            <div class="image">
-              <img src="../pages/assets/card.png" />
-            </div>
-            <div class="hover_hhola">
-              <div class="hover_text">Aqua Reef</div>
-              <div class="hover_svg">
-                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                    role="img" class="icon">
-                    <path
-                      d="M3.33337 5.2C3.33337 4.0799 3.33337 3.51984 3.55136 3.09202C3.74311 2.71569 4.04907 2.40973 4.42539 2.21799C4.85322 2 5.41327 2 6.53337 2H9.46671C10.5868 2 11.1469 2 11.5747 2.21799C11.951 2.40973 12.257 2.71569 12.4487 3.09202C12.6667 3.51984 12.6667 4.0799 12.6667 5.2V14L8.00004 11.3333L3.33337 14V5.2Z"
-                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg>
-                </span>
-                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                    role="img" class="icon ">
-                    <path
-                      d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
-                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg></span>
-              </div>
-            </div>
-          </div>
-          <div class="imgHeading">
-            <div class="name_card">
-              <div class="avatar">
-                <img src="../pages/assets/ava.jpeg" alt="#">
-              </div>
-              <div class="name_c">
-                <span>Ben Dider</span>
-              </div>
-              <div class="pro">
-                <span>PRO</span>
-              </div>
-            </div>
-            <div class="like">
-              <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                  role="img" class="icon fill-current shot-tools-icon">
-                  <path
-                    d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
-                    stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                </svg>
-              </span>
-              122
-              <div class="view">
-                <span>
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                    role="img" class="icon fill-current shot-tools-icon">
-                    <path
-                      d="M8 3C4.36992 3 1.98789 6.21774 1.18763 7.49059C1.09079 7.64462 1.04237 7.72163 1.01527 7.84042C0.99491 7.92964 0.99491 8.07036 1.01527 8.15958C1.04237 8.27837 1.09079 8.35539 1.18763 8.50941C1.98789 9.78226 4.36992 13 8 13C11.6301 13 14.0121 9.78226 14.8124 8.50941L14.8124 8.50939C14.9092 8.35538 14.9576 8.27837 14.9847 8.15958C15.0051 8.07036 15.0051 7.92964 14.9847 7.84042C14.9576 7.72163 14.9092 7.64462 14.8124 7.4906L14.8124 7.49059C14.0121 6.21774 11.6301 3 8 3Z"
-                      fill="currentColor"></path>
-                    <path
-                      d="M8 10C9.10457 10 10 9.10457 10 8C10 6.89543 9.10457 6 8 6C6.89543 6 6 6.89543 6 8C6 9.10457 6.89543 10 8 10Z"
-                      fill="white"></path>
-                  </svg>
-                </span>
-                55.4k
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="card_jug">
-          <div class="imageCard">
-            <div class="image">
-              <img src="../pages/assets/card1.png" />
-            </div>
-            <div class="hover_hhola">
-              <div class="hover_text">Aqua Reef</div>
-              <div class="hover_svg">
-                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                    role="img" class="icon">
-                    <path
-                      d="M3.33337 5.2C3.33337 4.0799 3.33337 3.51984 3.55136 3.09202C3.74311 2.71569 4.04907 2.40973 4.42539 2.21799C4.85322 2 5.41327 2 6.53337 2H9.46671C10.5868 2 11.1469 2 11.5747 2.21799C11.951 2.40973 12.257 2.71569 12.4487 3.09202C12.6667 3.51984 12.6667 4.0799 12.6667 5.2V14L8.00004 11.3333L3.33337 14V5.2Z"
-                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg>
-                </span>
-                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                    role="img" class="icon ">
-                    <path
-                      d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
-                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg></span>
-              </div>
-            </div>
-          </div>
-          <div class="imgHeading">
-            <div class="name_card">
-              <div class="avatar">
-                <img src="../pages/assets/ava.jpeg" alt="#">
-              </div>
-              <div class="name_c">
-                <span>Ben Dider</span>
-              </div>
-              <div class="pro">
-                <span>PRO</span>
-              </div>
-            </div>
-            <div class="like">
-              <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                  role="img" class="icon fill-current shot-tools-icon">
-                  <path
-                    d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
-                    stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                </svg>
-              </span>
-              122
-              <div class="view">
-                <span>
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                    role="img" class="icon fill-current shot-tools-icon">
-                    <path
-                      d="M8 3C4.36992 3 1.98789 6.21774 1.18763 7.49059C1.09079 7.64462 1.04237 7.72163 1.01527 7.84042C0.99491 7.92964 0.99491 8.07036 1.01527 8.15958C1.04237 8.27837 1.09079 8.35539 1.18763 8.50941C1.98789 9.78226 4.36992 13 8 13C11.6301 13 14.0121 9.78226 14.8124 8.50941L14.8124 8.50939C14.9092 8.35538 14.9576 8.27837 14.9847 8.15958C15.0051 8.07036 15.0051 7.92964 14.9847 7.84042C14.9576 7.72163 14.9092 7.64462 14.8124 7.4906L14.8124 7.49059C14.0121 6.21774 11.6301 3 8 3Z"
-                      fill="currentColor"></path>
-                    <path
-                      d="M8 10C9.10457 10 10 9.10457 10 8C10 6.89543 9.10457 6 8 6C6.89543 6 6 6.89543 6 8C6 9.10457 6.89543 10 8 10Z"
-                      fill="white"></path>
-                  </svg>
-                </span>
-                55.4k
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="card_jug">
-          <div class="imageCard">
-            <div class="image">
-              <img src="../pages/assets/card2.jpeg" />
+              <img src="../pages/assets/m3.png" />
             </div>
             <div class="hover_hhola">
               <div class="hover_text">Aqua Reef</div>
@@ -1485,6 +1233,258 @@
           <div class="imageCard">
             <div class="image">
               <img src="../pages/assets/card.png" />
+            </div>
+            <div class="hover_hhola">
+              <div class="hover_text">Aqua Reef</div>
+              <div class="hover_svg">
+                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                    role="img" class="icon">
+                    <path
+                      d="M3.33337 5.2C3.33337 4.0799 3.33337 3.51984 3.55136 3.09202C3.74311 2.71569 4.04907 2.40973 4.42539 2.21799C4.85322 2 5.41327 2 6.53337 2H9.46671C10.5868 2 11.1469 2 11.5747 2.21799C11.951 2.40973 12.257 2.71569 12.4487 3.09202C12.6667 3.51984 12.6667 4.0799 12.6667 5.2V14L8.00004 11.3333L3.33337 14V5.2Z"
+                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg>
+                </span>
+                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                    role="img" class="icon ">
+                    <path
+                      d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
+                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg></span>
+              </div>
+            </div>
+          </div>
+          <div class="imgHeading">
+            <div class="name_card">
+              <div class="avatar">
+                <img src="../pages/assets/ava.jpeg" alt="#">
+              </div>
+              <div class="name_c">
+                <span>Ben Dider</span>
+              </div>
+              <div class="pro">
+                <span>PRO</span>
+              </div>
+            </div>
+            <div class="like">
+              <span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                  role="img" class="icon fill-current shot-tools-icon">
+                  <path
+                    d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
+                    stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg>
+              </span>
+              122
+              <div class="view">
+                <span>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                    role="img" class="icon fill-current shot-tools-icon">
+                    <path
+                      d="M8 3C4.36992 3 1.98789 6.21774 1.18763 7.49059C1.09079 7.64462 1.04237 7.72163 1.01527 7.84042C0.99491 7.92964 0.99491 8.07036 1.01527 8.15958C1.04237 8.27837 1.09079 8.35539 1.18763 8.50941C1.98789 9.78226 4.36992 13 8 13C11.6301 13 14.0121 9.78226 14.8124 8.50941L14.8124 8.50939C14.9092 8.35538 14.9576 8.27837 14.9847 8.15958C15.0051 8.07036 15.0051 7.92964 14.9847 7.84042C14.9576 7.72163 14.9092 7.64462 14.8124 7.4906L14.8124 7.49059C14.0121 6.21774 11.6301 3 8 3Z"
+                      fill="currentColor"></path>
+                    <path
+                      d="M8 10C9.10457 10 10 9.10457 10 8C10 6.89543 9.10457 6 8 6C6.89543 6 6 6.89543 6 8C6 9.10457 6.89543 10 8 10Z"
+                      fill="white"></path>
+                  </svg>
+                </span>
+                55.4k
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card_jug">
+          <div class="imageCard">
+            <div class="image">
+              <img src="../pages/assets/card1.png" />
+            </div>
+            <div class="hover_hhola">
+              <div class="hover_text">Aqua Reef</div>
+              <div class="hover_svg">
+                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                    role="img" class="icon">
+                    <path
+                      d="M3.33337 5.2C3.33337 4.0799 3.33337 3.51984 3.55136 3.09202C3.74311 2.71569 4.04907 2.40973 4.42539 2.21799C4.85322 2 5.41327 2 6.53337 2H9.46671C10.5868 2 11.1469 2 11.5747 2.21799C11.951 2.40973 12.257 2.71569 12.4487 3.09202C12.6667 3.51984 12.6667 4.0799 12.6667 5.2V14L8.00004 11.3333L3.33337 14V5.2Z"
+                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg>
+                </span>
+                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                    role="img" class="icon ">
+                    <path
+                      d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
+                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg></span>
+              </div>
+            </div>
+          </div>
+          <div class="imgHeading">
+            <div class="name_card">
+              <div class="avatar">
+                <img src="../pages/assets/ava.jpeg" alt="#">
+              </div>
+              <div class="name_c">
+                <span>Ben Dider</span>
+              </div>
+              <div class="pro">
+                <span>PRO</span>
+              </div>
+            </div>
+            <div class="like">
+              <span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                  role="img" class="icon fill-current shot-tools-icon">
+                  <path
+                    d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
+                    stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg>
+              </span>
+              122
+              <div class="view">
+                <span>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                    role="img" class="icon fill-current shot-tools-icon">
+                    <path
+                      d="M8 3C4.36992 3 1.98789 6.21774 1.18763 7.49059C1.09079 7.64462 1.04237 7.72163 1.01527 7.84042C0.99491 7.92964 0.99491 8.07036 1.01527 8.15958C1.04237 8.27837 1.09079 8.35539 1.18763 8.50941C1.98789 9.78226 4.36992 13 8 13C11.6301 13 14.0121 9.78226 14.8124 8.50941L14.8124 8.50939C14.9092 8.35538 14.9576 8.27837 14.9847 8.15958C15.0051 8.07036 15.0051 7.92964 14.9847 7.84042C14.9576 7.72163 14.9092 7.64462 14.8124 7.4906L14.8124 7.49059C14.0121 6.21774 11.6301 3 8 3Z"
+                      fill="currentColor"></path>
+                    <path
+                      d="M8 10C9.10457 10 10 9.10457 10 8C10 6.89543 9.10457 6 8 6C6.89543 6 6 6.89543 6 8C6 9.10457 6.89543 10 8 10Z"
+                      fill="white"></path>
+                  </svg>
+                </span>
+                55.4k
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card_jug">
+          <div class="imageCard">
+            <div class="image">
+              <img src="../pages/assets/card2.jpeg" />
+            </div>
+            <div class="hover_hhola">
+              <div class="hover_text">Aqua Reef</div>
+              <div class="hover_svg">
+                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                    role="img" class="icon">
+                    <path
+                      d="M3.33337 5.2C3.33337 4.0799 3.33337 3.51984 3.55136 3.09202C3.74311 2.71569 4.04907 2.40973 4.42539 2.21799C4.85322 2 5.41327 2 6.53337 2H9.46671C10.5868 2 11.1469 2 11.5747 2.21799C11.951 2.40973 12.257 2.71569 12.4487 3.09202C12.6667 3.51984 12.6667 4.0799 12.6667 5.2V14L8.00004 11.3333L3.33337 14V5.2Z"
+                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg>
+                </span>
+                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                    role="img" class="icon ">
+                    <path
+                      d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
+                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg></span>
+              </div>
+            </div>
+          </div>
+          <div class="imgHeading">
+            <div class="name_card">
+              <div class="avatar">
+                <img src="../pages/assets/ava.jpeg" alt="#">
+              </div>
+              <div class="name_c">
+                <span>Ben Dider</span>
+              </div>
+              <div class="pro">
+                <span>PRO</span>
+              </div>
+            </div>
+            <div class="like">
+              <span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                  role="img" class="icon fill-current shot-tools-icon">
+                  <path
+                    d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
+                    stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg>
+              </span>
+              122
+              <div class="view">
+                <span>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                    role="img" class="icon fill-current shot-tools-icon">
+                    <path
+                      d="M8 3C4.36992 3 1.98789 6.21774 1.18763 7.49059C1.09079 7.64462 1.04237 7.72163 1.01527 7.84042C0.99491 7.92964 0.99491 8.07036 1.01527 8.15958C1.04237 8.27837 1.09079 8.35539 1.18763 8.50941C1.98789 9.78226 4.36992 13 8 13C11.6301 13 14.0121 9.78226 14.8124 8.50941L14.8124 8.50939C14.9092 8.35538 14.9576 8.27837 14.9847 8.15958C15.0051 8.07036 15.0051 7.92964 14.9847 7.84042C14.9576 7.72163 14.9092 7.64462 14.8124 7.4906L14.8124 7.49059C14.0121 6.21774 11.6301 3 8 3Z"
+                      fill="currentColor"></path>
+                    <path
+                      d="M8 10C9.10457 10 10 9.10457 10 8C10 6.89543 9.10457 6 8 6C6.89543 6 6 6.89543 6 8C6 9.10457 6.89543 10 8 10Z"
+                      fill="white"></path>
+                  </svg>
+                </span>
+                55.4k
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card_jug">
+          <div class="imageCard">
+            <div class="image">
+              <img src="../pages/assets/card3.jpeg" />
+            </div>
+            <div class="hover_hhola">
+              <div class="hover_text">Aqua Reef</div>
+              <div class="hover_svg">
+                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                    role="img" class="icon">
+                    <path
+                      d="M3.33337 5.2C3.33337 4.0799 3.33337 3.51984 3.55136 3.09202C3.74311 2.71569 4.04907 2.40973 4.42539 2.21799C4.85322 2 5.41327 2 6.53337 2H9.46671C10.5868 2 11.1469 2 11.5747 2.21799C11.951 2.40973 12.257 2.71569 12.4487 3.09202C12.6667 3.51984 12.6667 4.0799 12.6667 5.2V14L8.00004 11.3333L3.33337 14V5.2Z"
+                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg>
+                </span>
+                <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                    role="img" class="icon ">
+                    <path
+                      d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
+                      stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg></span>
+              </div>
+            </div>
+          </div>
+          <div class="imgHeading">
+            <div class="name_card">
+              <div class="avatar">
+                <img src="../pages/assets/ava.jpeg" alt="#">
+              </div>
+              <div class="name_c">
+                <span>Ben Dider</span>
+              </div>
+              <div class="pro">
+                <span>PRO</span>
+              </div>
+            </div>
+            <div class="like">
+              <span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                  role="img" class="icon fill-current shot-tools-icon">
+                  <path
+                    d="M10.7408 2C13.0889 2 14.6667 4.235 14.6667 6.32C14.6667 10.5425 8.11856 14 8.00004 14C7.88152 14 1.33337 10.5425 1.33337 6.32C1.33337 4.235 2.91115 2 5.2593 2C6.60745 2 7.48893 2.6825 8.00004 3.2825C8.51115 2.6825 9.39263 2 10.7408 2Z"
+                    stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg>
+              </span>
+              122
+              <div class="view">
+                <span>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                    role="img" class="icon fill-current shot-tools-icon">
+                    <path
+                      d="M8 3C4.36992 3 1.98789 6.21774 1.18763 7.49059C1.09079 7.64462 1.04237 7.72163 1.01527 7.84042C0.99491 7.92964 0.99491 8.07036 1.01527 8.15958C1.04237 8.27837 1.09079 8.35539 1.18763 8.50941C1.98789 9.78226 4.36992 13 8 13C11.6301 13 14.0121 9.78226 14.8124 8.50941L14.8124 8.50939C14.9092 8.35538 14.9576 8.27837 14.9847 8.15958C15.0051 8.07036 15.0051 7.92964 14.9847 7.84042C14.9576 7.72163 14.9092 7.64462 14.8124 7.4906L14.8124 7.49059C14.0121 6.21774 11.6301 3 8 3Z"
+                      fill="currentColor"></path>
+                    <path
+                      d="M8 10C9.10457 10 10 9.10457 10 8C10 6.89543 9.10457 6 8 6C6.89543 6 6 6.89543 6 8C6 9.10457 6.89543 10 8 10Z"
+                      fill="white"></path>
+                  </svg>
+                </span>
+                55.4k
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card_jug">
+          <div class="imageCard">
+            <div class="image">
+              <img src="../pages/assets/m1.jpeg" />
             </div>
             <div class="hover_hhola">
               <div class="hover_text">Aqua Reef</div>
@@ -1989,7 +1989,7 @@
 
     </div>
     <div class="browse">
-      <a href="/profile">Browse more Inspiration</a>
+      <a href="#">Browse more Inspiration</a>
     </div>
     <div class="orange">
       <div class="mean">
@@ -2008,7 +2008,7 @@
         </div>
         <div class="started">
           <div class="browsee">
-            <a href="/profile">Get Started now</a>
+            <a href="#">Get Started now</a>
           </div>
           <div class="browsee_light">
             <a href="#">Learn about hiring</a>
@@ -2024,158 +2024,132 @@
     <div class="universities">
       <div class="universities__main">
         <div class="universities__images">
+          <div class="scooter_car">
           <div class="scooter">
             <div class="cordone">
-
             </div>
             <div class="cardtwo">
-
             </div>
             <div class="universities__animate">
-
-              <img alt="" src="../pages/assets/foot1.webp" class="universities__animate-imgs">
-
-              <div class="footer_heading">
-                MOBILE
+              <img alt="" src="../pages/assets/f2.jpeg" class="universities__animate-imgs">
+            </div>
+          </div>
+          <div class="footer_heading">
+                Mobile
               </div>
-
             </div>
-          </div>
+            <div class="scooter_car">
           <div class="scooter">
             <div class="cordone">
-
             </div>
             <div class="cardtwo">
-
             </div>
             <div class="universities__animate">
-
-              <img alt="" src="../pages/assets/foot1.webp" class="universities__animate-imgs">
-
-              <div class="footer_heading">
-                MOBILE
+              <img alt="" src="../pages/assets/f1.jpeg" class="universities__animate-imgs">
+            </div>
+          </div>
+          <div class="footer_heading">
+                Print
               </div>
-
             </div>
-          </div>
+            <div class="scooter_car">
           <div class="scooter">
             <div class="cordone">
-
             </div>
             <div class="cardtwo">
-
             </div>
             <div class="universities__animate">
-
-              <img alt="" src="../pages/assets/foot1.webp" class="universities__animate-imgs">
-
-              <div class="footer_heading">
-                MOBILE
+              <img alt="" src="../pages/assets/f3.jpeg" class="universities__animate-imgs">
+            </div>
+          </div>
+          <div class="footer_heading">
+                Illustration
               </div>
-
             </div>
-          </div>
+            <div class="scooter_car">
           <div class="scooter">
             <div class="cordone">
-
             </div>
             <div class="cardtwo">
-
             </div>
             <div class="universities__animate">
-
-              <img alt="" src="../pages/assets/foot1.webp" class="universities__animate-imgs">
-
-              <div class="footer_heading">
-                MOBILE
+              <img alt="" src="../pages/assets/f5.jpeg" class="universities__animate-imgs">
+            </div>
+          </div>
+          <div class="footer_heading">
+                WebDesign
               </div>
-
             </div>
-          </div>
+          <div class="scooter_car">
           <div class="scooter">
             <div class="cordone">
-
             </div>
             <div class="cardtwo">
-
             </div>
             <div class="universities__animate">
-
-              <img alt="" src="../pages/assets/foot1.webp" class="universities__animate-imgs">
-
-              <div class="footer_heading">
-                MOBILE
+              <img alt="" src="../pages/assets/f3.jpeg" class="universities__animate-imgs">
+            </div>
+          </div>
+          <div class="footer_heading">
+                TypoGraphy
               </div>
-
             </div>
-          </div>
+            <div class="scooter_car">
           <div class="scooter">
             <div class="cordone">
-
             </div>
             <div class="cardtwo">
-
             </div>
             <div class="universities__animate">
-
-              <img alt="" src="../pages/assets/foot1.webp" class="universities__animate-imgs">
-
-              <div class="footer_heading">
-                MOBILE
+              <img alt="" src="../pages/assets/f3.jpeg" class="universities__animate-imgs">
+            </div>
+          </div>
+          <div class="footer_heading">
+                Branding
               </div>
-
             </div>
-          </div>
+            <div class="scooter_car">
           <div class="scooter">
             <div class="cordone">
-
             </div>
             <div class="cardtwo">
-
             </div>
             <div class="universities__animate">
-
-              <img alt="" src="../pages/assets/foot1.webp" class="universities__animate-imgs">
-
-              <div class="footer_heading">
-                MOBILE
+              <img alt="" src="../pages/assets/f3.jpeg" class="universities__animate-imgs">
+            </div>
+          </div>
+          <div class="footer_heading">
+                Product Design
               </div>
-
             </div>
-          </div>
+            <div class="scooter_car">
           <div class="scooter">
             <div class="cordone">
-
             </div>
             <div class="cardtwo">
-
             </div>
             <div class="universities__animate">
-
-              <img alt="" src="../pages/assets/foot1.webp" class="universities__animate-imgs">
-
-              <div class="footer_heading">
-                MOBILE
+              <img alt="" src="../pages/assets/f3.jpeg" class="universities__animate-imgs">
+            </div>
+          </div>
+          <div class="footer_heading">
+                Illustration
               </div>
-
             </div>
-          </div>
+            <div class="scooter_car">
           <div class="scooter">
             <div class="cordone">
-
             </div>
             <div class="cardtwo">
-
             </div>
             <div class="universities__animate">
-
-              <img alt="" src="../pages/assets/foot1.webp" class="universities__animate-imgs">
-              <span class="footer_heading">
-                MOBILE
-              </span>
-
+              <img alt="" src="../pages/assets/f3.jpeg" class="universities__animate-imgs">
             </div>
           </div>
+          <div class="footer_heading">
+                Illustration
+              </div>
+            </div>
 
         </div>
       </div>
@@ -2262,6 +2236,9 @@
 </template>
 
 
+<script>
+
+</script>
 
 
 
@@ -2272,7 +2249,15 @@ body {
   font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 }
-
+.footer_heading{
+  padding-left:10px;
+  color:#0d0c22;
+  font-size:14px;
+  font-weight:500;
+  display: flex;
+    justify-content: flex-start;
+    width: -webkit-fill-available;
+}
 .cordone {
   background-color: #e3ebfd;
   width: 200px;
@@ -2357,15 +2342,21 @@ body {
 
 .universities__animate {
   border-radius: 12px;
-  overflow: hidden;
-  display: flex;
+    overflow: hidden;
+    display: flex;
     flex-direction: column;
     gap: 16px;
+    height: 150px;
+    width: 200px;
 }
 
 .universities__animate>img {
   position: relative;
   z-index: 3;
+  height: 100%;
+    width: 100%;
+    object-fit: cover;
+
 }
 
 .universities__main {
@@ -2373,12 +2364,19 @@ body {
   overflow: hidden;
   width: 100%;
   margin-top: 63px;
+  padding: 30px;
 }
 
 .universities {
   display: flex;
   gap: 12px;
   height:350px;
+}
+.scooter_car{
+  display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
 }
 
 .universities__images {
