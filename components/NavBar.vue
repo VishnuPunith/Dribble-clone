@@ -80,6 +80,11 @@ export default {
 </script>
 
 <style>
+@media only screen and (min-width: 601px) and (max-width: 900px) {
+  .search {
+  display:none !important;
+}
+}
 
 .menu {
   /* Style your menu here */

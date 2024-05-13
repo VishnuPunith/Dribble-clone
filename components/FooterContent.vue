@@ -17,6 +17,11 @@
 
 
 <style>
+@media only screen and (min-width: 601px) and (max-width: 900px) {
+  .foot_con>ul{
+    gap: 4px !important;
+  }
+}
 @media only screen and (max-width: 600px) {
   .foot_con>ul {
   display: flex !important;

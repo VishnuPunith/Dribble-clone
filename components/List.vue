@@ -17,7 +17,12 @@ export default {
 </script>
 
 <style scoped>
-
+@media only screen and (min-width: 601px) and (max-width: 900px) {
+  .list>ul {
+  display: none !important;
+  
+}
+}
 .list>ul {
   list-style: none;
   display: flex;

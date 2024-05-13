@@ -17,9 +17,7 @@
       </div>
       <div class="SignGet">
         <a href="#">Get Started</a>
-
       </div>
-
     </div>
     <SliderCard />
     <div class="text">
@@ -1594,6 +1592,17 @@
 
 
 <style scoped>
+
+@media only screen and (min-width: 601px) and (max-width: 900px) {
+.parac{
+  font-size:20px !important;
+}
+.grid_flex{
+  grid-template-columns: repeat(2, 0fr) !important;
+
+}
+
+}
 @media only screen and (max-width: 600px) {
   .head[data-v-2a183b29] {
     font-size: 38px !important;
@@ -1620,18 +1629,7 @@
   justify-content: center;
   align-items: center;
 }
-/* .orange_head>h1[data-v-2a183b29]{
-  font-size: 40px;
 
-}
-.orange_head{
-  text-align:center;
-}
-.orange_para[data-v-2a183b29]{
-  font-size: 14px;
-        line-height: inherit;
-
-} */
 .foot_text[data-v-2a183b29]{
   height: 200px;
         display: flex;
@@ -1658,17 +1656,7 @@ body {
 
 }
 
-  
-/* .mergedDiv {
-  background-color: #e3ebfd; 
-  width: 200px;
-  height: 150px;
-  position: absolute;
-  border-radius: 12px;
-  margin-top: -3px; 
-  margin-left: 4px; 
-  z-index: 2; 
-} */
+
 .list>ul {
   list-style: none;
   display: flex;
@@ -1683,88 +1671,6 @@ body {
 }
 
 
-/* .scooter{
-  height:52%;
-}
-.scooter .mergedDiv {
-  transition: transform 1s ease-in-out;
-}
-
-
-/* .scooter:hover>.mergedDiv {
-  transform: translateY(-8px) translateX(8px) !important;
-  transition: transform 0.5s ease-in;
-  cursor: pointer;
-}
-
-.scooter:hover>.mergedDiv {
-  transform: translateY(-4px) translateX(4px) !important;
-  transition: transform 0.5s ease-in;
-  cursor: pointer;
-} */ 
-
-/* .universities__animate {
-  border-radius: 12px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
-    height: 150px;
-    width: 200px;
-}
-
-.universities__animate>img {
-  position: relative;
-  z-index: 3;
-  height: 100%;
-    width: 100%;
-    object-fit: cover;
-
-}
-
-.universities__main {
-  max-width: 100%;
-  overflow: hidden;
-  width: 100%;
-  margin-top: 63px;
-  padding: 30px;
-}
-
-.universities {
-  display: flex;
-  gap: 12px;
-  height:350px;
-} */
-/* .scooter_car{
-  display: flex;
-    flex-direction: column;
-    gap: 12px;
-    align-items: center;
-} */
-
-/* .universities__images {
-  animation:moving-left-to-right 150s linear infinite;
-
-  display: flex;
-  gap: 20px;
-  width: fit-content;
-  overflow: hidden;
-  height: 100%;
-    align-items: center;
-
-} */
-/* .universities__images:hover {
-  animation-play-state: paused; 
-}
-@keyframes moving-left-to-right {
-  0% {
-    transform: translateX(0);
-  }
-
-  100% {
-    transform: translateX(calc(-100% - 20px)); 
-  }
-} */
 
 
 
@@ -1783,17 +1689,7 @@ body {
   margin-top: -27pc;
 }
 
-/* .links {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 35px;
-}
 
-.links>span {
-  font-size: 20px;
-  font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-} */
 
 .image_foot {
   position: absolute;
@@ -1805,77 +1701,7 @@ body {
   border-radius: 12px;
 }
 
-/* .browsee_light>a {
-  border: 1px solid #0d0c22;
-  background: white;
-  height: 60px;
-  font-weight: 600;
-  font-size: 14px;
-  color: black;
-  padding: 17px;
-  border-radius: 30px;
-}
 
-.browsee>a {
-  border: 1px solid #0d0c22;
-  background: black;
-  height: 60px;
-  font-weight: 600;
-  font-size: 14px;
-  color: white;
-  padding: 17px;
-  border-radius: 30px;
-} */
-
-/* .started {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 26px;
-} */
-
-/* .mean {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: inherit;
-  width: inherit;
-} */
-
-/* .orange_con {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  font-family: "Source Serif 4", Georgia, serif;
-  align-items: center;
-  height: 352px;
-  width: 680px;
-}
-
-.orange_head>h1 {
-  max-width: 350px;
-  font-size: 54px;
-}
-
-.orange_para {
-  max-width: 600px;
-  margin: 0 auto;
-  font-size: 20px;
-  line-height: 36px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-.orange {
-  background-color: #ffda79;
-  height: 600px;
-  width: inherit;
-  margin-top: 120px;
-} */
 
 .browse {
   display: flex;
