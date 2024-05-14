@@ -1,10 +1,6 @@
 <template>
        <div class="navbar">
-        <!-- <div class="hamburger" @click="toggleMenu">
-      <div>-</div>
-      <div>-</div>
-      <div>-</div>
-    </div> -->
+        
     <div class="menu" v-if="menuOpen">
       <ul>
         <li v-for="(item, index) in menuItems" :key="index">{{ item }}</li>
