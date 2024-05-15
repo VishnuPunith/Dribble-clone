@@ -1,6 +1,9 @@
-<template>
-        
-        <div class="grid">
+<template> 
+<div>
+  <div class="text">
+      <h1 class="text-e">Explore inspiring designs</h1>
+    </div>
+  <div class="grid">
       <div class="grid_flex">
         <div class="card_jug">
           <div class="imageCard">
@@ -1516,6 +1519,11 @@
         </div>
       </div>
     </div>
+    <div class="browse">
+      <a href="#">Browse more Inspiration</a>
+    </div>
+</div>
+        
 </template>
 
 <script>
@@ -1529,10 +1537,15 @@
 }
 @media only screen and (max-width: 600px) {
   .grid_flex {
-    display: flex;
+    display: flex !important;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    grid-template-columns: repeat(1, 1fr);
+}
+.text-e {
+    font-size: 32px !important;
+
   }
 }
 .grid {
@@ -1569,6 +1582,30 @@
     rgba(0, 0, 0, 0.396541) 89.22%,
     rgba(0, 0, 0, 0.4) 91.17%
   );
+}
+.browse {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 65px;
+}
+.text-e {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 400;
+  font-size: 48px;
+  font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.browse>a {
+  border: 1px solid #0d0c22;
+  background: transparent;
+  height: 60px;
+  font-weight: 600;
+  font-size: 14px;
+  color: black;
+  padding: 17px;
+  border-radius: 30px;
 }
 .hover_hhola {
   height: 100%;
