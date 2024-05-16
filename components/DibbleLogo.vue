@@ -12,16 +12,5 @@
       </div>
 </template>
 
-<script>
-    export default {
-        
-    }
-</script>
 
-<style scoped>
-.logo {
-  height: 38px;
-  width: 96px;
-}
 
-</style>

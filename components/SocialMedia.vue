@@ -31,10 +31,3 @@
     </div>
 </template>
 
-
-<style>
-.social_media {
-  display: flex;
-  gap: 12px;
-}
-</style>
